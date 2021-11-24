@@ -1,0 +1,10 @@
+{
+    "name": "adityas-dev",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "adityas-dev",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}

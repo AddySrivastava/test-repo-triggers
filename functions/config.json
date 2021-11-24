@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Atlas_Triggers_new_github_trigger_1637736157",
+        "private": false,
+        "can_evaluate": {}
+    },
+    {
+        "name": "Atlas_Triggers_scheduled_trigger_1637680450",
+        "private": false
+    },
+    {
+        "name": "Atlas_Triggers_trigger0_1633615118",
+        "private": false
+    }
+]
